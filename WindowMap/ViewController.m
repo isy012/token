@@ -90,9 +90,6 @@
            
            annotationView.canShowCallout = YES;
            
-           
-           
-           
         }else {
             annotationView.annotation = annotation;
             }
